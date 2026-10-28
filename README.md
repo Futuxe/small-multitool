@@ -6,26 +6,13 @@ Please note that this is **NOT** an "HACKING TOOL", but just an tool for being e
 
 
 # 💎 Features
-* 
-* 
-* 
-* 
-* 
+* IP TRACER
+* Dos Attacker
+* HDWI Check
 
 ---
 
-| Commands |
-|--------|
 
-| `!kill` TERMINATE bot. |
-| `!remove` Remove from startup |
-| `!help` This menu but in discord chat <3|
-| `!ping` Checek bot status |
-| `!passwords` Browser passwords (obfscated urls) |
-| `!apppass`  Application passwords |
-| `!wifi` WiFi passwords |
-
----
 
 # ⚒️ Setup
 
